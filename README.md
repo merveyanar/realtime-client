@@ -1,3 +1,17 @@
+Projeyş olusturmak ıcın asagıda kı adımları ızledım.
+npx create-react-app realtime-cliet
+cd realtime-client
+npm install @microsoft/signalr
+
+src/Chat.js yazdım.
+src/App.js guncelledım.
+
+Pushlamak ıcın ıse
+git remote add origin https://....
+git add .
+git commit -m "first frontend commit"
+git push -u origin master
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
